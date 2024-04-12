@@ -1,4 +1,4 @@
 #!/usr/bin/node
 
 /* The best exp */
-module.export = class.Rectangle { };
+module.export = class Rectangle { };
